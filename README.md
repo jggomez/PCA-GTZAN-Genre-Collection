@@ -19,6 +19,14 @@ The dataset used is the GTZAN Genre Collection, which contains 1000 audio tracks
 7.  **Loadings Analysis:** The loadings (eigenvectors) were examined to understand the contribution of each frequency band to the principal components. Bar plots were generated to visualize the top frequency bands contributing to the first two principal components. A table showing the top frequency bands with the highest loadings for PC1 was also displayed.
 8.  **Component Visualization:** Scatter plots were generated to visualize the data in the space of the first few principal components (PC1 vs PC2 and PC1 vs PC2 vs PC3), colored by musical genre, to observe potential clustering or separation of genres.
 
+<img width="924" height="390" alt="image" src="https://github.com/user-attachments/assets/bc59c5b4-04a5-4160-892e-8ac5fdad6dd7" />
+
+<img width="841" height="547" alt="image" src="https://github.com/user-attachments/assets/27723e5b-0a7c-4f59-8f53-ea8be3965cd5" />
+
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/d1b1ecd7-9246-48e5-b845-770126518711" />
+
+<img width="1001" height="790" alt="image" src="https://github.com/user-attachments/assets/d6f29926-2ec2-4fc5-9c94-2c69a0540a95" />
+
 ## Results
 
 The PCA analysis revealed that the first few principal components capture a large proportion of the variance in the spectral features. The loadings provided insights into which frequency bands are most important for these components. The PCA visualization showed some degree of genre separation, suggesting that spectral features help distinguish among musical genres.
